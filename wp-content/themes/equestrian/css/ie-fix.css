@@ -1,0 +1,23 @@
+#header-holder{
+	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#8C000000,endColorstr=#8C000000);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#8C000000,endColorstr=#8C000000);
+	zoom: 1;
+}
+.pre-footer{
+	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#11000000,endColorstr=#11000000);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#11000000,endColorstr=#11000000);
+	zoom: 1;
+}
+#menu-overlay{
+	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#8C000000,endColorstr=#8C000000);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#8C000000,endColorstr=#8C000000);
+	zoom: 1;
+}
+#back-top a{
+	background: #000 !important;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+}
+#back-top a:hover{
+	background: #000 !important;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
